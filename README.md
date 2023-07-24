@@ -22,4 +22,4 @@
 
 <h3 align="center">기록 검색</h3>
 
-<span align="center">KBO Player Record Searching Program은 선수들의 기록 검색을 제공합니다.<span>
+<h5 align="center">KBO Player Record Searching Program은 선수들의 기록 검색을 제공합니다.</h5>
