@@ -1,5 +1,6 @@
 <h1 align="center">KBO Player Record Searching Program</h1>
-
+<br>
+<br>
 <div align="center">
 <img src="image/recSearch.png"/>
 </div>
@@ -15,7 +16,8 @@
 
 
 <h1 align="center">KBO Player Record Searching Program 사용 예시</h1>
-
+<br>
+<br>
 <div align="center">
 <img src="image/recSearch2.png"/>
 </div>
