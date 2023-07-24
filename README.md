@@ -10,7 +10,10 @@
 <h3 align="center">Java Project 입니다.</h3>
 
 <h1 align="center">KBO Player Record Searching Program 사용 예시</h1>
-
+<br>
+<br>
+<br>
+<br>
 <div align="center">
 <img src="image/recSearch2.png"/>
 </div>
