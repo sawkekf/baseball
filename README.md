@@ -43,7 +43,11 @@
 <img src="image/recSearch4.png"/>
 </div>
 
-<h3 align="center">전체 기록 조히</h3>
+<h3 align="center">전체 기록 조회</h3>
 
 <h5 align="center">KBO Player Record Searching Program에 등록된 전체 선수의</h5>
 <h5 align="center">기록을 조회할 수 있습니다.</h5>
+
+<br>
+<br>
+<h4 align="center">이외에도 선수기록 수정이나 삭제 등의 기능을 제공합니다.</h4>
