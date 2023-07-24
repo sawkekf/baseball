@@ -26,7 +26,7 @@
 
 <h5 align="center">KBO Player Record Searching Program은 선수들의 기록 검색을 제공합니다.</h5>
 
----
+----
 
 <br>
 <br>
@@ -39,7 +39,7 @@
 <h5 align="center">KBO Player Record Searching Program은 선수 기록이 없을 시,</h5>
 <h5 align="center">선수 기록 추가 기능을 제공합니다.</h5>
 
----
+----
 
 <br>
 <br>
@@ -52,7 +52,7 @@
 <h5 align="center">KBO Player Record Searching Program에 등록된 전체 선수의</h5>
 <h5 align="center">기록을 조회할 수 있습니다.</h5>
 
----
+----
 
 <br>
 <br>
