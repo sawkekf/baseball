@@ -3,8 +3,6 @@ package baseballRecord;
 import java.util.TreeMap;
 
 public class FielderMap {
-
-	String teamAndUniNum;
 	
 	TreeMap<String, FielderData> fmap;
 	

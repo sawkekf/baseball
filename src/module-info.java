@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kosmo
+ *
+ */
+module baseBallRecord {
+}

@@ -4,8 +4,6 @@ import java.util.TreeMap;
 
 public class PitcherMap {
 	
-	String teamAndUniNum;
-	
 	TreeMap<String, PitcherData> pmap;
 	
 	public PitcherMap() {
