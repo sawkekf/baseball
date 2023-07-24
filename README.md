@@ -1,4 +1,4 @@
-# KBO Player Record Searching Program
+<h1 align="center">KBO Player Record Searching Program</h1>
 
 <h3 align="center">KBO Player Record Searching Program은 야구 선수들의 기록 관리를 위한</h3> 
 
