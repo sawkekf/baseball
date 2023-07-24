@@ -25,3 +25,14 @@
 <h3 align="center">기록 검색</h3>
 
 <h5 align="center">KBO Player Record Searching Program은 선수들의 기록 검색을 제공합니다.</h5>
+
+<br>
+<br>
+<div align="center">
+<img src="image/recSearch3.png"/>
+</div>
+
+<h3 align="center">기록 추가</h3>
+
+<h5 align="center">KBO Player Record Searching Program은 선수 기록이 없을 시,</h5>
+<h5 align="center">선수 기록 추가 기능을 제공합니다.</h5>
